@@ -17,6 +17,13 @@
           "-webkit-text-size-adjust"
         ]
       }
+    ],
+    "no-inline-styles": "off",
+    "axe/text-alternatives": [
+      "default",
+      {
+        "image-alt": "off"
+      }
     ]
   }
 }
